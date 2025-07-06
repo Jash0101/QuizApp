@@ -25,9 +25,3 @@ Create a **console-based quiz application** in Java that presents multiple-choic
 
 ---
 
-
-1. **Save the file** as `QuizApp.java`
-2. **Open terminal/command prompt**, navigate to the folder containing the file.
-3. **Compile the Java file:**
-   ```bash
-   javac QuizApp.java
